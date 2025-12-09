@@ -6,4 +6,4 @@ function trocarBunner(){
 	document.querySelector("h2#mensagem").textContent = 
 	bunners[bunnerAtual];
 }
-setInterval(trocarBunner, 2000);
+setInterval(trocarBunner, 1000);
