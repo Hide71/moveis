@@ -1,4 +1,4 @@
-var bunners =["Os melhores do Brasil!", "Qualidade e preço baixo!"];
+var bunners =["Do lixo ao luxo!", "Reaproveitar é aproveitar!"];
 var bunnerAtual = 0;
 
 function trocarBunner(){
